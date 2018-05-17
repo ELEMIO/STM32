@@ -1,2 +1,2 @@
 # STM32
-STM32 project for the ELEMIO
+STM32 project for the ELEMYO
