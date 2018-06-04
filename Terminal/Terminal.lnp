@@ -17,6 +17,8 @@
 "terminal\stm32f1xx_hal_pwr.o"
 "terminal\stm32f1xx_hal_gpio_ex.o"
 "terminal\stm32f1xx_hal_pcd_ex.o"
+"terminal\stm32f1xx_hal_spi.o"
+"terminal\stm32f1xx_hal_spi_ex.o"
 "terminal\system_stm32f1xx.o"
 "terminal\usbd_cdc_if.o"
 "terminal\stm32f1xx_it.o"
